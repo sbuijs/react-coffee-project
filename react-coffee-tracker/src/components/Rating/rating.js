@@ -23,9 +23,9 @@ export const Rating = ({ className, rating, iconSize }) => {
         return hearts;
     }, [rating]);
 
-    if (!normalisedRating) {
-        return <StyledButton secondary buttonLabel="Rate it!" className="" />;
-    }
+    // if (!normalisedRating) {
+    //     return <StyledButton secondary buttonLabel="Rate it!" className="" />;
+    // }
     return (
         <>
             <div className={className}>

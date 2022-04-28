@@ -109,12 +109,12 @@ export const MethodsPage = () => {
                             col d-flex justify-content-between mb-4'
                             >
                                 <Title title="Your methods" />
-                                <StyledButton
+                                {/* <StyledButton
                                     primary
                                     buttonLabel="Create new method"
                                     className="align-self-center"
                                     onClick={toggleForm}
-                                />
+                                /> */}
                             </div>
                         </div>
                     </div>

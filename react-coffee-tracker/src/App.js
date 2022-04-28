@@ -24,7 +24,7 @@ function App() {
         <Route path="/coffees/:id" element={<CoffeeDetailPage />} />
         <Route path="/roasteries" exact element={<RoasteriesPage />} />
         <Route path="/methods" exact element={<MethodsPage />} />
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<CoffeesPage />} />
       </Routes>
     </div >
   );

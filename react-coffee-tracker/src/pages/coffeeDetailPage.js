@@ -88,8 +88,8 @@ export const CoffeeDetailPage = () => {
                             <p>You've got no methods..</p>
                         }
                     </div>
-                    <h4>Methods applied</h4>
-                    <hr />
+                    {/* <h4>Methods applied</h4>
+                    <hr /> */}
                 </div>
             </div>
 

@@ -25,7 +25,7 @@ export const CoffeeCard = ({ className, coffee }) => {
                 className="stretched-link"
                 to={`/coffees/${coffee._id}`}
             />
-            <div className="card__body pb-4">
+            <div className="card__body pb-4 m-1 mb-3">
                 <div className="card__image">
                     <img src={coffee.imageUrl} alt={coffee.name} />
                 </div>
