@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.com/react-coffee-project/static/css/main.f4710166.css",
-    "main.js": "/github.com/react-coffee-project/static/js/main.fa6c9f82.js",
-    "static/media/bootstrap-icons.woff?": "/github.com/react-coffee-project/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
-    "static/media/bootstrap-icons.woff2?": "/github.com/react-coffee-project/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
-    "index.html": "/github.com/react-coffee-project/index.html",
-    "main.f4710166.css.map": "/github.com/react-coffee-project/static/css/main.f4710166.css.map",
-    "main.fa6c9f82.js.map": "/github.com/react-coffee-project/static/js/main.fa6c9f82.js.map"
+    "main.css": "/react-coffee-project/static/css/main.53db0326.css",
+    "main.js": "/react-coffee-project/static/js/main.0b66baf2.js",
+    "static/media/bootstrap-icons.woff?": "/react-coffee-project/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-coffee-project/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/react-coffee-project/index.html",
+    "main.53db0326.css.map": "/react-coffee-project/static/css/main.53db0326.css.map",
+    "main.0b66baf2.js.map": "/react-coffee-project/static/js/main.0b66baf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4710166.css",
-    "static/js/main.fa6c9f82.js"
+    "static/css/main.53db0326.css",
+    "static/js/main.0b66baf2.js"
   ]
 }
