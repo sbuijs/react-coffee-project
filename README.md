@@ -10,11 +10,12 @@ Tool to keep track of your favorite coffee and ways to brew.<br/>
 </div>
 <br/>
 <br/>
-
-<img width="1552" alt="simple-guessing-game" src="https://user-images.githubusercontent.com/1607627/165161199-55d1c5bd-8ce8-4287-8c11-8f24d87e1366.png">
+<img width="1552" alt="Screenshot 2022-04-28 at 19 24 09" src="https://user-images.githubusercontent.com/1607627/165811683-fee4afa2-0f62-45a8-9603-182e232a3371.png">
 
 ## Built With
-- Vanilla Javascript
+- ReactJS
+- Sanity.io
+- Redux toolkit
 
 
 ## Contact
