@@ -1,10 +1,11 @@
 <div id="top"></div>
 
 
-<h1 align="left">Simple guessing game</h1>
+<h1 align="left">React coffee project</h1>
   <p align="left">
-       Simple number guessing game, created with Vanilla Javascript.<br/>
-       <a href="https://sbuijs.github.io/simple-guessing-game/">View Demo</a>
+Tool to keep track of your favorite coffee and ways to brew.<br/>
+#underconstruction<br/>
+       <a href="https://sbuijs.github.io/react-coffee-project/">View Demo</a>
   </p>
 </div>
 <br/>
@@ -19,10 +20,6 @@
 ## Contact
 
 Stephanie Buijs - buijs.s@gmail.com<br/>
-Project Link: [https://github.com/sbuijs/simple-guessing-game](https://github.com/sbuijs/simple-guessing-game)<br/>
-
-
-## Acknowledgments
-- Jonas Schmedtmann: ["The Complete JavaScript Course 2021: From Zero to Expert!"](https://www.udemy.com/course/the-complete-javascript-course/).
+Project Link: [https://github.com/sbuijs/react-coffee-project](https://github.com/sbuijs/react-coffee-project)<br/>
 
 <p align="left">(<a href="#top">back to top</a>)</p>
