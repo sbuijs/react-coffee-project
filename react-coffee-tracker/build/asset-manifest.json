@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sbuijs/react-coffee-project/static/css/main.304c0987.css",
+    "main.js": "/sbuijs/react-coffee-project/static/js/main.738d68cf.js",
+    "static/media/bootstrap-icons.woff?": "/sbuijs/react-coffee-project/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/sbuijs/react-coffee-project/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/sbuijs/react-coffee-project/index.html",
+    "main.304c0987.css.map": "/sbuijs/react-coffee-project/static/css/main.304c0987.css.map",
+    "main.738d68cf.js.map": "/sbuijs/react-coffee-project/static/js/main.738d68cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.304c0987.css",
+    "static/js/main.738d68cf.js"
+  ]
+}
