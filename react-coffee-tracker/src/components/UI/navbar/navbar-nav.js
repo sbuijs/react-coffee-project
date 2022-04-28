@@ -1,25 +1,25 @@
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 export const NavbarNav = ({ className }) => {
     return (
         <div className={className}>
-            <NavLink
-                to="/coffees"
+            <Link
+                to="/react-coffee-project/"
                 className="nav-link active"
-                aria-current="page" >
+                aria-current="page">
                 Coffees
-            </NavLink>
-            <NavLink
-                to="/roasteries"
+            </Link>
+            <Link
+                to="/react-coffee-project/roasteries"
                 className="nav-link active"
-                aria-current="page" >
+                aria-current="page">
                 Roasteries
-            </NavLink>
-            <NavLink
-                to="/methods"
+            </Link>
+            <Link
+                to="/react-coffee-project/methods"
                 className="nav-link active"
-                aria-current="page" >
+                aria-current="page">
                 Methods
-            </NavLink>
+            </Link>
         </div>
     )
 }
