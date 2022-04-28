@@ -4,7 +4,7 @@ import { getMethods } from "../features/method";
 
 //components
 import { Title } from '../components/UI/title'
-import { StyledButton } from '../components/UI/button/button.style'
+// import { StyledButton } from '../components/UI/button/button.style'
 import { CardGroupWide } from '../components/UI/cardGroupWide'
 import { StyledMethod } from '../components/Method/methodCard.style'
 import { StyledMethodForm } from '../components/Method/methodForm.style';
@@ -129,7 +129,7 @@ export const MethodsPage = () => {
                     />
                     <CardGroupWide>
                         {method.status === 'loading' &&
-                            <SkeletonMethodCards count={5} />
+                            <SkeletonMethodCards count={10} />
                         }
                         {sortedMethods && sortedMethods
                             .map((method) => {
