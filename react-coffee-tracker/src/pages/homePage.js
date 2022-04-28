@@ -20,7 +20,7 @@ export const HomePage = () => {
     const query = '[_type=="method"]';
 
     const url = `https://2dcsqrom.api.sanity.io/v2021-06-07/data/query/production?query=*${encodeURIComponent(query)}`;
-    console.log(url);
+    // console.log(url);
 
 
     useEffect(() => {

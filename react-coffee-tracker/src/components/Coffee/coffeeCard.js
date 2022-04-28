@@ -16,7 +16,7 @@ export const CoffeeCard = ({ className, coffee }) => {
     }, [dispatch]);
 
     useEffect(() => {
-        console.log(className);
+        // console.log(className);
     }, [dispatch]);
 
     return (

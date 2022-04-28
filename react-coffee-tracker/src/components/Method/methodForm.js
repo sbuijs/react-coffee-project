@@ -27,7 +27,7 @@ export const MethodForm = ({ className, onCloseForm, onFormSubmit }) => {
     }
 
     useEffect(() => {
-        console.log(data);
+        // console.log(data);
     }, [data])
 
     const getInputValue = (e) => {

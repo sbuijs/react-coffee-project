@@ -93,8 +93,8 @@ export const MethodsPage = () => {
     }, [ascending, method.methods, sortType])
 
     const submitForm = (data) => {
-        console.log(data);
-        console.log(`submit the form. send the data to the db.`);
+        // console.log(data);
+        // console.log(`submit the form. send the data to the db.`);
         // dispatch(createMethod({ data }))
         toggleForm()
     }
