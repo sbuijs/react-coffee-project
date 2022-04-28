@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-coffee-project/static/css/main.53db0326.css",
-    "main.js": "/react-coffee-project/static/js/main.0337f3c3.js",
+    "main.js": "/react-coffee-project/static/js/main.4ebe865c.js",
     "static/media/bootstrap-icons.woff?": "/react-coffee-project/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
     "static/media/bootstrap-icons.woff2?": "/react-coffee-project/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
     "index.html": "/react-coffee-project/index.html",
     "main.53db0326.css.map": "/react-coffee-project/static/css/main.53db0326.css.map",
-    "main.0337f3c3.js.map": "/react-coffee-project/static/js/main.0337f3c3.js.map"
+    "main.4ebe865c.js.map": "/react-coffee-project/static/js/main.4ebe865c.js.map"
   },
   "entrypoints": [
     "static/css/main.53db0326.css",
-    "static/js/main.0337f3c3.js"
+    "static/js/main.4ebe865c.js"
   ]
 }
