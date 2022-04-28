@@ -23,7 +23,7 @@ export const CoffeeCard = ({ className, coffee }) => {
         <div className={className + ' col card-group position-relative border-0'}>
             <Link
                 className="stretched-link"
-                to={`/coffees/${coffee._id}`}
+                to={`/react-coffee-project/coffees/${coffee._id}`}
             />
             <div className="card__body pb-4 m-1 mb-3">
                 <div className="card__image">
