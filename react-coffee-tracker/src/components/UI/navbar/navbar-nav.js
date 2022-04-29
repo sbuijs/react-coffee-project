@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 export const NavbarNav = ({ className }) => {
     return (
         <div className={className}>
+            {/* Used link instead of NavLink beacuse of github pages */}
             <Link
                 to="/react-coffee-project/"
                 className="nav-link active"

@@ -68,11 +68,11 @@ export const CoffeeDetailPage = () => {
                             className="align-self-center" />
                     </div>
                     <p className='mb-4'><i>From: {currentRoastery.name}</i></p>
-                    {/* <h6 className='mb-4'>Method: {currentMethod.rating}</h6> */}
                     <div className='mb-5'>
                         <p className='mb-1'><strong>Taste: </strong>{currentCoffee.taste}</p>
                         <p className='mb-1'><strong>Processing: </strong>{currentCoffee.processing} </p>
                     </div>
+
 
                     <div className='mb-5'>
                         <h4>Best method for this coffee</h4>
@@ -84,12 +84,11 @@ export const CoffeeDetailPage = () => {
                                 method={currentMethod}>
                             </StyledMethod>
                         }
+
                         {!currentMethod &&
-                            <p>You've got no methods..</p>
+                            <p><i>Currently there is no selected method for this coffee</i></p>
                         }
                     </div>
-                    {/* <h4>Methods applied</h4>
-                    <hr /> */}
                 </div>
             </div>
 

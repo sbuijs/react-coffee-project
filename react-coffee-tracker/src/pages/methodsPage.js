@@ -4,7 +4,7 @@ import { getMethods } from "../features/method";
 
 //components
 import { Title } from '../components/UI/title'
-// import { StyledButton } from '../components/UI/button/button.style'
+import { StyledButton } from '../components/UI/button/button.style'
 import { CardGroupWide } from '../components/UI/cardGroupWide'
 import { StyledMethod } from '../components/Method/methodCard.style'
 import { StyledMethodForm } from '../components/Method/methodForm.style';
@@ -109,12 +109,12 @@ export const MethodsPage = () => {
                             col d-flex justify-content-between mb-4'
                             >
                                 <Title title="Your methods" />
-                                {/* <StyledButton
+                                <StyledButton
                                     primary
                                     buttonLabel="Create new method"
                                     className="align-self-center"
                                     onClick={toggleForm}
-                                /> */}
+                                />
                             </div>
                         </div>
                     </div>

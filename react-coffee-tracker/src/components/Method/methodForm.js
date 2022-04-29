@@ -171,6 +171,9 @@ export const MethodForm = ({ className, onCloseForm, onFormSubmit }) => {
                         {page === 3 && nextButton}
                         {page === 4 && previousButton}
                         {page === 4 && submitButton}
+                        {page === 4 &&
+                            <p><i>(Currently saving function doesn't work)</i></p>
+                        }
                     </div>
                 </div>
             </div>
